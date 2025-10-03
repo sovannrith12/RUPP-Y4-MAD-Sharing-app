@@ -9,11 +9,17 @@ Users frequently encounter interesting links, articles, recipes, videos, or shop
 Usage
 
 ⦁	Launch the app and proceed past the splash screen.
+
 ⦁	Log in or create a new account to access your personal content library.
+
 ⦁	View and filter your saved links based on different categories (Restaurants, Videos, Articles, etc.).
+
 ⦁	Add new content by pasting a link and providing a title, category, and optional notes.
+
 ⦁	Quickly manage saved content with actions like editing or deleting the link.
+
 ⦁	Manage your profile and access app settings (theme, language, etc.).
+
 ⦁	Log out when finished.
 
 Feature
@@ -21,14 +27,21 @@ Feature
 Core Screens
 
 ⦁	Splash Screen
+
 ⦁	Login / Register Screen
+
 ⦁	Home Screen (My Contents)
+
 ⦁	Add Content Screen
+
 ⦁	Profile Screen
 
 Technology Stack
 
 ⦁	Kotlin
+
 ⦁	Android Studio
+
 ⦁	API
+
 ⦁	Mysql workbench
