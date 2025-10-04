@@ -1,43 +1,44 @@
-Cheak Romlek (ចែករំលែក) - Your Organized Content Hub
+LinkKeep - Your Personal Content Manager
 
-Cheak Romlek is a mobile application designed to help users efficiently save, organize, and quickly retrieve links and content they find online, categorized for easy access. It acts as a personalized, clutter-free digital notebook for everything you want to remember and revisit later, moving beyond simple browser bookmarks or cluttered note apps.
+Problem Statement:
+
+In the age of information overload, users frequently discover valuable links (articles, videos, restaurants, shopping items) across various platforms. The common methods for saving these links—such as sharing to a dedicated chat, saving to a device's Notes app, or using a browser's Save feature—lead to a highly disorganized and cluttered collection. This makes finding specific saved content later a frustrating and time-consuming task.
+
+There is a need for a localized, simple, and category-driven mobile application that allows users to centralize, categorize, and quickly retrieve all their personal saved links and content, transforming digital clutter into a well-managed personal library.
 
 
-Problem Statement
+Usage:
 
-Users frequently encounter interesting links, articles, recipes, videos, or shops online but rely on disorganized methods like saving them to browser bookmarks, sending them in chat apps, or pasting them into simple note applications. As the saved content grows, it becomes disorganized, difficult to search, and nearly impossible to categorize properly, leading to information overload and forgotten links. There is a need for a dedicated, localized mobile application that focuses on structured content saving and easy retrieval by category.
+This application is designed to act as a personal content curator where a user can:
 
+⦁	Sign up and Log in to access their personal library.
 
-Usage
+⦁	Save a link (URL) to any content they discover online.
 
-⦁	Launch the app and proceed past the splash screen.
+⦁	Categorize each saved content (e.g., Restaurant, Video, Article) for easy filtering.
 
-⦁	Log in or create a new account to access your personal content library.
+⦁	View all their saved links in an organized list format.
 
-⦁	View and filter your saved links based on different categories (Restaurants, Videos, Articles, etc.).
+⦁	Search and Filter their library to quickly find specific saved items.
 
-⦁	Add new content by pasting a link and providing a title, category, and optional notes.
+⦁	Edit or Delete content entries as needed.
 
-⦁	Quickly manage saved content with actions like editing or deleting the link.
-
-⦁	Manage your profile and access app settings (theme, language, etc.).
-
-⦁	Log out when finished.
+⦁	Manage basic Profile settings.
 
 
 Feature
 
 Core Screens
 
-⦁	Splash Screen
+⦁	Splash
 
-⦁	Login / Register Screen
+⦁	Authentication
 
-⦁	Home Screen (My Contents)
+⦁	Home (My Contents)
 
-⦁	Add Content Screen
+⦁	Add Content
 
-⦁	Profile Screen
+⦁	Profile
 
 
 Technology Stack
